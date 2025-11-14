@@ -51,7 +51,7 @@ const contactItems = ref([
 ])
 </script>
 <template>
-    <section class="py-20 overflow-hidden bg-gradient-to-r from-pink-100 to-purple-100" id="specialists">
+    <section class="py-20 overflow-hidden bg-gradient-to-r from-pink-100 to-purple-100" id="contact">
         <div class="container mx-auto px-4">
             <!-- Section Header -->
             <header class="text-center mb-16 relative" data-aos="fade-up" data-aos-delay="400">

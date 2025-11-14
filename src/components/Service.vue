@@ -32,7 +32,7 @@ const services = ref([
 <template>
     <section class="py-20 overflow-hidden bg-gradient-to-r from-pink-100 to-purple-100"
         area-labelledby="services-heading">
-        <div class="container mx-auto px-4">
+        <div class="container mx-auto px-4" id="service">
             <!-- Section Header -->
             <header data-aos="fade-up" data-aos-delay="500" class="text-center mb-16">
                 <h2 id="services-heading" class="text-3xl md:test-4xl font-bold text-gray-800 mb-4">
