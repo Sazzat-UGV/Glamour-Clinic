@@ -6,6 +6,7 @@ import Header from './components/Header.vue';
 import Hero from './components/Hero.vue';
 import Service from './components/Service.vue';
 import About from './components/About.vue';
+import Specialists from './components/Specialists.vue';
 onMounted(() => {
   AOS.init();
 })
@@ -15,5 +16,6 @@ onMounted(() => {
   <Hero />
   <Service />
   <About />
+  <Specialists />
 </template>
 <style scoped></style>
